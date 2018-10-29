@@ -5,6 +5,5 @@ setup(
     packages=['stalinsort'],
     include_package_data=True,
     install_requires=[
-        'bitarray'
     ],
 )
