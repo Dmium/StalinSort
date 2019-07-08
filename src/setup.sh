@@ -1,1 +1,1 @@
-sudo pip3 install -e .
+pip3 install --user -e .
